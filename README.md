@@ -2,9 +2,11 @@
 
 > **Task 1 Submission** | Life-Science CRM | LangGraph + Groq + FastAPI + React + Redux + PostgreSQL
 
-![Log Interaction Screen](assets/images/1.png)
+![Image1](assets/images/1.png)
 
-![LangGraph Tool Flow](assets/images/2.png)
+![Image2](assets/images/2.png)
+
+![Image3](assets/images/3.png)
 
 ---
 
